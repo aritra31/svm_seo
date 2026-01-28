@@ -1,0 +1,79 @@
+query,expected_url,predicted_rank
+how to manage brand assets in the library,https://help.surveymonkey.com/en/surveymonkey/teams/library,1
+how to send my survey,https://help.surveymonkey.com/en/surveymonkey/send/sending-your-survey,1
+how to build workgroups,https://help.surveymonkey.com/en/surveymonkey/teams/workgroups,1
+how to log in to your account,https://help.surveymonkey.com/en/surveymonkey/account/logging-in,1
+privacy policy,https://help.surveymonkey.com/en/surveymonkey/policy/privacy-rights/,1
+how to question skip logic,https://help.surveymonkey.com/en/surveymonkey/create/question-skip-logic,1
+how to upgrade my account,https://help.surveymonkey.com/en/surveymonkey/billing/upgrading,1
+how to tracking respondents,https://help.surveymonkey.com/en/surveymonkey/send/tracking-respondents,1
+how to make user report,https://help.surveymonkey.com/en/surveymonkey/teams/user-report,1
+how to add a consent statement,https://help.surveymonkey.com/en/surveymonkey/create/consent-or-privacy-notice,1
+how to export survey results,https://help.surveymonkey.com/en/surveymonkey/analyze/exports,1
+question types,https://help.surveymonkey.com/en/surveymonkey/create/question-types,1
+how to compare two survey results,https://help.surveymonkey.com/en/surveymonkey/analyze/compare-rules,1
+irb guidelines,https://help.surveymonkey.com/en/surveymonkey/policy/irb-guidelines,1
+how to create a web link for your survey,https://help.surveymonkey.com/en/surveymonkey/send/web-link-collector,1
+how to make custom screening questions,https://help.surveymonkey.com/en/surveymonkey/solutions/audience-additional-settings/,1
+how do i add blocks of questions to my survey,https://help.surveymonkey.com/en/surveymonkey/create/block-randomization,1
+how to send email invitations,https://help.surveymonkey.com/en/surveymonkey/send/email-send-limits/,1
+how do i organize my assets,https://help.surveymonkey.com/en/surveymonkey/teams/library,1
+how to build a survey,https://help.surveymonkey.com/en/surveymonkey/create/creating-a-survey,1
+how to use surveymonkey api,https://help.surveymonkey.com/en/surveymonkey/integrations/surveymonkey-api,1
+how to change the font in my survey,https://help.surveymonkey.com/en/surveymonkey/create/formatting-text,1
+what are taxes on my purchases,https://help.surveymonkey.com/en/surveymonkey/billing/taxes,1
+how to embedding questions in email lists & contact info,https://help.surveymonkey.com/en/surveymonkey/send/embedding-questions,1
+how to use question bank,https://help.surveymonkey.com/en/surveymonkey/create/question-bank,1
+forgot login details,https://help.surveymonkey.com/en/surveymonkey/account/password-reset,1
+how to use recurring web link surveys,https://help.surveymonkey.com/en/surveymonkey/send/recurring-surveys,1
+how to more ways to send,https://help.surveymonkey.com/en/surveymonkey/send/social-media-collector,1
+how to  export csv,https://help.surveymonkey.com/en/surveymonkey/analyze/csv-exports,1
+how to custom roles,https://help.surveymonkey.com/en/surveymonkey/teams/custom-roles,1
+how to make results dashboards,https://help.surveymonkey.com/en/surveymonkey/analyze/results-dashboards,1
+how to reset password,https://help.surveymonkey.com/en/surveymonkey/account/password-reset,1
+how to filter results,https://help.surveymonkey.com/en/surveymonkey/analyze/filter-rules,1
+how to make divisions,https://help.surveymonkey.com/en/surveymonkey/teams/divisions,1
+check accessibility when using surveymonkey,https://help.surveymonkey.com/en/surveymonkey/create/accessibility,1
+what are the design guidelines to audience project,https://help.surveymonkey.com/en/surveymonkey/solutions/audience-guidelines/,1
+how to use custom variables,https://help.surveymonkey.com/en/surveymonkey/send/custom-variables,1
+can i downgrade to a free plan,https://help.surveymonkey.com/en/surveymonkey/billing/downgrading,1
+page titles & page descriptions,https://help.surveymonkey.com/en/surveymonkey/create/page-question-titles/,1
+how to export responses to a google sheet,https://help.surveymonkey.com/en/surveymonkey/integrations/sheets-automation,1
+measuring net promoter score,https://help.surveymonkey.com/en/surveymonkey/integrations/salesforce-nps,1
+how to delete a question,https://help.surveymonkey.com/en/surveymonkey/create/deleting-questions/,1
+how to send surveys to phone,https://help.surveymonkey.com/en/surveymonkey/teams/sms-provisioning,1
+how to sign up or upgrade,https://help.surveymonkey.com/en/surveymonkey/billing/upgrading,1
+how can i delete a survey,https://help.surveymonkey.com/en/surveymonkey/manage/survey-deletion/,1
+how to add my privacy notice,https://help.surveymonkey.com/en/surveymonkey/create/consent-statements-privacy-notices/,1
+how do i analyze my responses with ai,https://help.surveymonkey.com/en/surveymonkey/analyze/analyze-with-ai,1
+how to show different survey based on respondents’ answer,https://help.surveymonkey.com/en/surveymonkey/create/advanced-branching,1
+how to analyze results,https://help.surveymonkey.com/en/surveymonkey/analyze/analyzing-results,1
+where is one response,https://help.surveymonkey.com/en/surveymonkey/analyze/individual-responses,1
+how to use zapier with surveymonkey,https://help.surveymonkey.com/en/surveymonkey/integrations/zapier,1
+how to use inclusive language,https://help.surveymonkey.com/en/surveymonkey/create/inclusive-language,1
+how to send email lists with contact info,https://help.surveymonkey.com/en/surveymonkey/send/email-send-limits,1
+how to view my survey monkey data,https://help.surveymonkey.com/en/surveymonkey/policy/surveymonkey-data,1
+how to check my payment history,https://help.surveymonkey.com/en/surveymonkey/billing/billing-details,1
+how to create a form,https://help.surveymonkey.com/en/surveymonkey/create/forms,1
+why was i charged again,https://help.surveymonkey.com/en/surveymonkey/billing/automatic-renewals,1
+what is a collector,https://help.surveymonkey.com/en/surveymonkey/send/sending-your-survey,1
+how to use a collector to track data about people who take your survey?,https://help.surveymonkey.com/en/surveymonkey/send/custom-variables,1
+my survey link doesn't work,https://help.surveymonkey.com/en/surveymonkey/send/broken-survey-link,1
+how do i turn off autorenew?,https://help.surveymonkey.com/en/surveymonkey/billing/auto-renew,1
+how to getting started with forms,https://help.surveymonkey.com/en/surveymonkey/create/creating-a-survey/,1
+device registration,https://help.surveymonkey.com/en/surveymonkey/account/saved-devices,1
+how to edit questions,https://help.surveymonkey.com/en/surveymonkey/create/adding-editing-questions,1
+how to integrate microsoft teams,https://help.surveymonkey.com/en/surveymonkey/integrations/microsoft-teams-integration,1
+how to crosstab reports,https://help.surveymonkey.com/en/surveymonkey/analyze/crosstabs,1
+how to use themes to style surveys,https://help.surveymonkey.com/en/surveymonkey/create/themes,1
+how are my survey responses anonymous and secure?,https://help.surveymonkey.com/en/surveymonkey/policy/are-responses-anonymous,1
+how to add contacts to email lists,https://help.surveymonkey.com/en/surveymonkey/send/importing-email-lists,1
+how to change seats on your team,https://help.surveymonkey.com/en/surveymonkey/teams/manage-seats,1
+how to auto-renew,https://help.surveymonkey.com/en/surveymonkey/billing/auto-renew,1
+how to use surveymonkey for salesforce,https://help.surveymonkey.com/en/surveymonkey/integrations/surveymonkey-salesforce-app,1
+how to build surveys with ai,https://help.surveymonkey.com/en/surveymonkey/create/build-with-ai,1
+how to create an ab test,https://help.surveymonkey.com/en/surveymonkey/create/ab-tests,1
+how to avail monthly payment option,https://help.surveymonkey.com/en/surveymonkey/billing/monthly-payment-option,1
+"how to manage team seats, roles, and permissions",https://help.surveymonkey.com/en/surveymonkey/teams/team-roles-permissions,1
+how to change the survey title,https://help.surveymonkey.com/en/surveymonkey/create/changing-the-survey-title,1
+legal center pages,https://help.surveymonkey.com/en/surveymonkey/policy/legal-center-pages,1

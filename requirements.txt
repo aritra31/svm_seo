@@ -1,0 +1,12 @@
+transformers
+sentence-transformers>=2.7.0
+scikit-learn
+rank_bm25
+torch
+nltk
+beautifulsoup4
+requests
+lxml
+rapidfuzz
+pandas
+openpyxl
